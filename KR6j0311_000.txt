@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 觀自在菩薩隨心經
+#+DATE: 2015-08-30 20:30:05.093063
+#+PROPERTY: JUAN 0
